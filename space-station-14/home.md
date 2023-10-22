@@ -3,8 +3,8 @@
 ![](ss14-banner.jpg)
 
 
-Space Station 14 es un juego de rol multijugador en el que serás un tripulante de una estación espacial condenada al caos.
-Los gráficos son simples pero esconden un montón de capas de complejidad que permiten simular situaciones surrealistas, de paranoia y tensión absoluta.
+Space Station 14 es un juego de rol social multijugador en el que serás un tripulante de una estación espacial condenada al caos.
+Los gráficos son simples pero esconden un montón de capas de complejidad y mecánicas que permiten simular situaciones surrealistas, de paranoia y tensión absoluta.
 
 ![](judge.gif)
 
@@ -12,7 +12,7 @@ En Space Station 14 coexisten multitud de sistemas complejos que generan partida
 
 ![](destruction.png)
 
-Durante cada ronda de trabajo irán sucediendo eventos aleatorios tales como apagones, lluvias de meteoritos, anomalías que traigan seres de otra dimensión o infecciones zombies entre otras. A parte de que entre los tripulantes puede haber espías que tengan objetivos en contra de los intereses de la estación, y también existen multitud de amenazas externas.
+Durante cada ronda de trabajo irán sucediendo eventos aleatorios tales como apagones, lluvias de meteoritos, anomalías que abran un portal a seres extradimensionales o infecciones zombies entre otras. Si no fuera suficiente, entre los tripulantes puede haber traidores que tengan objetivos en contra de los intereses de la estación, además de existir multitud de amenazas externas.
 
 ![](flesh-anomaly.png)
 
