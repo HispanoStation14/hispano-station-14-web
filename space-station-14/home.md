@@ -4,6 +4,9 @@
 
 
 Space Station 14 es un juego de rol social multijugador en el que serás un tripulante de una estación espacial condenada al caos.
+
+Podrás crear tu personaje, elegir su profesión según el rol que quieras jugar y mientras intentas hacer tu trabajo deberás sobrevivir hasta el final de cada ronda ya que la muerte de tu personaje es permanente si no logran encontrar tu cuerpo.
+
 Los gráficos son simples pero esconden un montón de capas de complejidad y mecánicas que permiten simular situaciones surrealistas, de paranoia y tensión absoluta.
 
 ![](judge.gif)
