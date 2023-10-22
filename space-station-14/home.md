@@ -1,10 +1,21 @@
-# Space Station 14
+# Space Station 14: Multiplayer Disaster Simulator
+
+![](ss14-banner.jpg)
+
 
 Space Station 14 es un juego de rol multijugador en el que serás un tripulante de una estación espacial condenada al caos.
 
-En Space Station 14 coexisten multitud de sistemas complejos que generan partidas únicas en cada ronda. La estación es completamente modificable y destruible, esta se compone de sistemas de generación y distribución de energía y aire, que si fallan pueden provocar graves problemas a la tripulación.
+Los gráficos son simples pero esconden un montón de capas de complejidad que permiten simular situaciones surrealistas y de paranoya y tensión absoluta.
+
+![](judge.gif)
+
+En Space Station 14 coexisten multitud de sistemas complejos que generan partidas únicas en cada ronda. La estación es completamente modificable y destruible, esta se compone de sistemas de generación y distribución de energía y aire, que si se averían pueden provocar graves problemas a la tripulación.
+
+![](destruction.png)
 
 Durante cada ronda de trabajo irán sucediendo eventos aleatorios tales como apagones, lluvias de meteoritos, anomalías que traigan seres de otra dimensión o infecciones zombies entre otras. A parte de que entre los tripulantes puede haber espías que tengan objetivos en contra de los intereses de la estación, y también existen multitud de amenazas externas.
+
+![](flesh-anomaly.png)
 
 La estación se divide en diferentes departamentos según la función que juegan en el mantenimiento y desarrollo del trabajo:
 
